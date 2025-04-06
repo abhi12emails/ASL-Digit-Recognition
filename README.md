@@ -1,6 +1,6 @@
 # From Gestures to Digits: A Real-Time Sign Language Recognition Pipeline Using CNN + LSTM Variants
 
-**Team Members: Rohini H, Abhineswari M, Yazhini R (Vellore Institute of Technology)**
+**Team Members: Rohini H, Abhineswari M, Yazhini R (Vellore Institute of Technology, Chennai)**
 
 Sign language recognition is a key technology to improve communication accessibility for the speech and hearing impaired. This paper introduces a real-time sign language digit recognition system based on four hybrid deep learning models: 
 - CNN + BiLSTM
